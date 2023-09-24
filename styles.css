@@ -34,7 +34,7 @@ body{
 .article {
     flex: 3;
     padding: 1em;
-    min-height: 60vh; /* Minimum height of 60% of viewport height */
+    min-height: 60vh; 
 }
 
 .aside {
